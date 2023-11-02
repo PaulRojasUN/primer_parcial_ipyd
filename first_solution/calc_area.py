@@ -28,6 +28,6 @@ def calc_area(a, b, rectangles, f):
 
 # CALL
 
-calc_area(0,2, 9000000000, f)
+calc_area(0,2, 900000000, f)
 
 
